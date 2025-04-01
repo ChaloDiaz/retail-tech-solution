@@ -10,7 +10,7 @@ const Footer = () => {
       <div className="container-custom pt-12 pb-8">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-12">
           <div>
-            <h3 className="text-2xl font-bold mb-4">TechRetail</h3>
+            <h3 className="text-2xl font-bold mb-4">Sertecno</h3>
             <p className="text-gray-400 mb-4">
               Soluciones tecnológicas especializadas para el sector retail y e-commerce.
             </p>
@@ -81,7 +81,7 @@ const Footer = () => {
             <address className="not-italic text-gray-400">
               Av. Tecnología 1234<br />
               Ciudad Innovación, CP 12345<br /><br />
-              <span className="block mb-2">contacto@techretail.com</span>
+              <span className="block mb-2">contacto@sertecno.com</span>
               <span className="block">+52 123 456 78</span>
             </address>
           </div>
@@ -89,7 +89,7 @@ const Footer = () => {
 
         <div className="border-t border-gray-800 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
-            <p className="text-gray-400 mb-4 md:mb-0">&copy; {currentYear} TechRetail. Todos los derechos reservados.</p>
+            <p className="text-gray-400 mb-4 md:mb-0">&copy; {currentYear} Sertecno Servicios Integrales SA. Todos los derechos reservados.</p>
             <div className="flex space-x-6">
               <Link to="/" className="text-gray-400 hover:text-white transition-colors">
                 Política de Privacidad

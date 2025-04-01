@@ -14,7 +14,7 @@ const Navbar = () => {
     <header className="sticky top-0 z-50 w-full bg-white/95 backdrop-blur-sm shadow-sm">
       <div className="container-custom flex items-center justify-between py-4">
         <div className="flex items-center">
-          <a href="/" className="text-2xl font-bold text-tech-blue">TechRetail</a>
+          <a href="/" className="text-2xl font-bold text-tech-blue">Sertecno</a>
         </div>
 
         {/* Desktop Navigation */}
