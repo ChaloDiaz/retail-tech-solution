@@ -137,8 +137,8 @@ const ContactSection = () => {
                   <div>
                     <h4 className="font-medium">Dirección</h4>
                     <address className="not-italic text-gray-600">
-                      Av. Tecnología 1234<br />
-                      Ciudad Innovación, CP 12345
+                      Pasaje Cousiño 237<br />
+                      Comuna Santiago
                     </address>
                   </div>
                 </div>
@@ -149,8 +149,8 @@ const ContactSection = () => {
                   </div>
                   <div>
                     <h4 className="font-medium">Email</h4>
-                    <a href="mailto:contacto@techretail.com" className="text-tech-blue hover:underline">
-                      contacto@techretail.com
+                    <a href="mailto:contacto@sertecno.com" className="text-tech-blue hover:underline">
+                      contacto@sertecno.com
                     </a>
                   </div>
                 </div>
@@ -161,8 +161,8 @@ const ContactSection = () => {
                   </div>
                   <div>
                     <h4 className="font-medium">Teléfono</h4>
-                    <a href="tel:+5212345678" className="text-tech-blue hover:underline">
-                      +52 123 456 78
+                    <a href="tel:+56994562082" className="text-tech-blue hover:underline">
+                      +56 9 9456 2082
                     </a>
                   </div>
                 </div>

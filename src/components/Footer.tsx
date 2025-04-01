@@ -79,10 +79,10 @@ const Footer = () => {
           <div>
             <h3 className="text-lg font-bold mb-4">Contacto</h3>
             <address className="not-italic text-gray-400">
-              Av. Tecnología 1234<br />
-              Ciudad Innovación, CP 12345<br /><br />
+              Pasaje Cousiño 237<br />
+              Comuna Santiago<br /><br />
               <span className="block mb-2">contacto@sertecno.com</span>
-              <span className="block">+52 123 456 78</span>
+              <span className="block">+56 9 9456 2082</span>
             </address>
           </div>
         </div>
